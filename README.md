@@ -1,4 +1,4 @@
-# Social Media Engagement & Sentiment Analysis (Project 1)
+# Social Media Engagement & Sentiment Analysis
 
 Exploratory analysis of 2,260 social media posts (13 columns) in pandas, run in Google Colab.
 
@@ -14,8 +14,8 @@ not any real brand or country.
 - `charts/`: figures used in the report
 
 ## Key results
-1. [Your Finding 1, one line with numbers]
-2. [Your Finding 2, one line with numbers]
+1. TikTok and Instagram posts get more likes than LinkedIn and Facebook posts (median likes: TikTok 44, Instagram 37, Facebook 26, LinkedIn 20).
+2. The ranking holds per follower: median engagement per follower is TikTok 0.0346 vs LinkedIn 0.0124.
 
 
 ## Project Structure
