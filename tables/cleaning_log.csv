@@ -1,0 +1,12 @@
+step,rows_or_cells_affected,detail
+convert followers_count to numeric,0,values that could not be parsed became NaN
+convert likes to numeric,0,values that could not be parsed became NaN
+convert retweets_shares to numeric,0,values that could not be parsed became NaN
+convert comments to numeric,0,values that could not be parsed became NaN
+negative followers_count set to NaN,0,
+negative likes set to NaN,0,
+negative retweets_shares set to NaN,0,
+negative comments set to NaN,0,
+parse timestamp,0,invalid dates became NaT
+drop exact duplicate rows,0,
+drop repeated post_id (keep first),0,
