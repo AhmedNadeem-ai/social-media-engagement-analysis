@@ -1,0 +1,8 @@
+step,rows_or_cells_affected,detail
+convert likes to numeric,0,values that could not be parsed became NaN
+convert comments to numeric,0,values that could not be parsed became NaN
+negative likes set to NaN,0,
+negative comments set to NaN,0,
+parse timestamp,0,invalid dates became NaT
+drop exact duplicate rows,0,
+drop repeated comment_id (keep first),0,

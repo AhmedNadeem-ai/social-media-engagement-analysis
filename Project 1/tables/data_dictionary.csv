@@ -1,0 +1,11 @@
+column,dtype_as_loaded,type_guess,example_value,meaning
+comment_id,object,Text/Categorical,Ugz8v8E_CSXe9ukBbp94AaABAg,Unique identifier of the comment
+text,object,Text/Categorical,"Starting 😢
+Ending 🤣",TODO: describe this column
+likes,int64,Numerical,21108,TODO: describe this column
+comments,int64,Numerical,77,TODO: describe this column
+timestamp,"datetime64[ns, UTC]",Date/time,2024-12-22 16:16:40+00:00,TODO: describe this column
+video_id,object,Text/Categorical,DEdWUNVdLHY,Unique identifier of the YouTube video
+video_title,object,Text/Categorical,iPhone vs Samsung 😂,Title of the YouTube video
+channel,object,Text/Categorical,Shahveer Jafry,YouTube channel that published the video
+content_type,object,Text/Categorical,comparison,Category or type of video content
