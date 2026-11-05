@@ -17,7 +17,7 @@ The exact scraping tool, collection criteria, and sampling method are not docume
 
 ## Contents
 
-- `project1_youtube_comments_analysis.ipynb`: Full analysis (data cleaning, descriptive statistics, charts, scaling experiment, and machine learning preview)
+- `PROJECT 1.ipynb`: Full analysis (data cleaning, descriptive statistics, charts, scaling experiment, and machine learning preview)
 - `report.pdf`: Main findings, recommendations, and limitations
 - `tables/`: Data dictionary, cleaning log, dataset summary, and scaling results
 - `charts/`: Figures used in the report
@@ -34,7 +34,7 @@ The exact scraping tool, collection criteria, and sampling method are not docume
 social-media-engagement-analysis/
 ├── README.md
 └── Project 1/
-    ├── Project 1.ipynb
+    ├── PROJECT 1.ipynb
     ├── report.pdf
     ├── charts/
     │   ├── chart1_sentiment_counts.png
