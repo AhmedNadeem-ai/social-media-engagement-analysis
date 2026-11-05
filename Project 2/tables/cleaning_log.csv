@@ -1,0 +1,10 @@
+step,rows_or_cells_affected,detail
+negative spend set to NaN,0,
+negative revenue set to NaN,0,
+negative impressions set to NaN,0,
+negative clicks set to NaN,0,
+negative conversions set to NaN,0,
+clicks > impressions -> clicks NaN,0,
+conversions > clicks -> conversions NaN,0,
+trim whitespace in text columns,0,
+drop exact duplicate rows,0,

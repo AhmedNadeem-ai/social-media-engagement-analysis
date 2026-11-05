@@ -1,0 +1,13 @@
+column,dtype_as_loaded,type_guess,example_value,meaning
+date,datetime64[ns],Date/time,2025-01-04 00:00:00,Day the ads ran
+campaign,category,Text/Categorical,Bumper Ads,YouTube campaign type
+platform,object,Text/Categorical,YouTube,Advertising platform (always YouTube in my project)
+impressions,int64,Numerical,784,Number of times the ad was shown
+clicks,int64,Numerical,8,Number of clicks on the ad
+spend,float64,Numerical,204.15,Money spent (Rs.)
+conversions,int64,Numerical,0,Purchases / sign-ups that came from the ad
+revenue,float64,Numerical,0.0,Revenue from those conversions (Rs.)
+age,category,Text/Categorical,25-34,Age group of the audience slice
+gender,category,Text/Categorical,Female,Gender of the audience slice
+city,category,Text/Categorical,Karachi,City of the audience slice
+device,category,Text/Categorical,Mobile,Device the ad was watched on
